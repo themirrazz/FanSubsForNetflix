@@ -1,0 +1,11 @@
+{
+    "name": "Example Repository",
+    "description": "Describe it here",
+    "author": "your name",
+    "languages": [
+       {
+          "name": "English",
+          "id": "english"
+       }
+    ]
+ }
